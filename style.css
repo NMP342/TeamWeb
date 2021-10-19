@@ -1,0 +1,58 @@
+.photo{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 500px;
+    width: 800px;
+}
+.info{
+    background-color: darkred;
+    display: flex;
+    margin: 0px;
+    margin-bottom: 50px;
+}
+.list{
+    display: flex;
+    color: white;
+    font-size: 30px;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+}
+a{
+    color: white;
+}
+body{
+    margin: 0px;
+    background-image: url(https://salt.tikicdn.com/ts/product/34/25/a0/f12fccc94eceff5cf51f6012eb0aeaa3.jpg);
+    background-size: cover;
+}
+.trich{
+    padding: 10px;
+    background-color:rgba(150, 50, 25, 0.4);
+    width: 80%;
+    font-size: 60px;
+    color: lightyellow;
+    text-align: center;
+    margin: auto;
+}
+.gt{
+    margin: 30px;
+    margin-bottom: 60px;
+}
+.photo1{
+    height: 200px;
+    width: 150px;
+}
+.tp{
+    display: flex;
+    justify-content: center;
+}
+.ctr{
+    background-color: rgba(150, 50, 25, 0.4);
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+}
